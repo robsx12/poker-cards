@@ -64,6 +64,6 @@ func (d deck) shuffle() {
 	}
 }
 
-func test() bool {
+func testReturn() bool {
 	return true
 }
